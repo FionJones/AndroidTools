@@ -1,6 +1,5 @@
 import time
 
-import logzero
 import socket
 import threading
 
