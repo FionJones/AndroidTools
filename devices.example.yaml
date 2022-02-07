@@ -1,0 +1,10 @@
+"serial": # 手机串号(adb shell getprop ro.serialno)
+  alias: 'sas' # 备注名
+  brand: HONOR # 手机型号(adb shell getprop ro.product.brand)
+  enable: true # 是否启用
+  height: 2340 # 屏幕高度
+  ip: 192.168.1.7 # 手机 wifi ip 地址
+  manufacturer: HUAWEI # 手机品牌 (adb shell getprop ro.product.manufacturer)
+  name: COR-AL00 # 手机名称 (adb shell getprop ro.product.name)
+  version: '9' # 安卓版本
+  width: 1080 # 屏幕宽度
